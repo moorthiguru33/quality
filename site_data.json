@@ -1,0 +1,145 @@
+{
+  "adminPassword": "admin123",
+  "branding": {
+    "logo": "logo.png",
+    "dealerLogo": "tvs-logo.jpeg"
+  },
+  "vehicles": [
+    {
+      "id": "v1",
+      "badge": "Bestseller",
+      "badgeColor": "",
+      "category": "Passenger",
+      "catClass": "",
+      "name": "TVS King Deluxe",
+      "tagline": "Maximum comfort for passengers — the city's choice.",
+      "engine": "200cc, 4-Stroke",
+      "fuel": "Petrol / CNG",
+      "payload": "3 Passengers + Driver",
+      "mileage": "35–40 km/l",
+      "price": "₹2.20 Lakh*",
+      "img": "tvs_king_deluxe.jpg"
+    },
+    {
+      "id": "v2",
+      "badge": "Cargo King",
+      "badgeColor": "vslider__badge-top--blue",
+      "category": "Cargo",
+      "catClass": "vslider__model-tag--cargo",
+      "name": "TVS King Duramax",
+      "tagline": "Built for heavy-duty cargo, built to last.",
+      "engine": "245cc, 4-Stroke DI",
+      "fuel": "Diesel",
+      "payload": "500 kg",
+      "mileage": "28–32 km/l",
+      "price": "₹2.80 Lakh*",
+      "img": "tvs_king_duramax.jpg"
+    },
+    {
+      "id": "v3",
+      "badge": "Eco Choice",
+      "badgeColor": "vslider__badge-top--green",
+      "category": "CNG / Eco",
+      "catClass": "vslider__model-tag--eco",
+      "name": "TVS King CNG",
+      "tagline": "Lower running cost, zero compromise on power.",
+      "engine": "200cc, 4-Stroke CNG",
+      "fuel": "CNG + Petrol Dual",
+      "payload": "3 Passengers + Driver",
+      "mileage": "180–200 km/tank",
+      "price": "₹2.40 Lakh*",
+      "img": "tvs_king_cng.jpg"
+    },
+    {
+      "id": "v4",
+      "badge": "New Launch",
+      "badgeColor": "vslider__badge-top--purple",
+      "category": "Electric",
+      "catClass": "vslider__model-tag--ev",
+      "name": "TVS King EV",
+      "tagline": "Zero fuel cost. Zero emissions. Zero compromise.",
+      "engine": "Electric, 8kW Motor",
+      "fuel": "Zero (Battery)",
+      "payload": "120–140 km/charge",
+      "mileage": "4–5 Hours Full",
+      "price": "₹3.10 Lakh*",
+      "img": "tvs_king_ev.jpg"
+    }
+  ],
+  "offers": [
+    {
+      "id": "o1",
+      "pill": "🔥 Limited Time",
+      "title": "Free 20-Point Safety Inspection",
+      "desc": "With every paid service — brakes, tyres, lights, fluids & more. No extra charge.",
+      "btnText": "Claim on WhatsApp",
+      "btnClass": "btn--amber",
+      "cardClass": "obanner__card--1",
+      "deco": "FREE<br/>INSPECTION",
+      "bgImg": ""
+    },
+    {
+      "id": "o2",
+      "pill": "💰 New Customers",
+      "title": "10% Off on Genuine Spare Parts",
+      "desc": "First-time customers get a flat 10% discount on all genuine TVS spare parts on their first bill.",
+      "btnText": "Claim on WhatsApp",
+      "btnClass": "btn--dark",
+      "cardClass": "obanner__card--2",
+      "deco": "10%<br/>OFF",
+      "bgImg": ""
+    },
+    {
+      "id": "o3",
+      "pill": "📅 Annual Plan",
+      "title": "AMC Care Package — Save More",
+      "desc": "Four scheduled services at a fixed annual price. Priority slots, no surprise bills.",
+      "btnText": "Get Details",
+      "btnClass": "btn--amber",
+      "cardClass": "obanner__card--3",
+      "deco": "AMC<br/>PLAN",
+      "bgImg": ""
+    },
+    {
+      "id": "o4",
+      "pill": "🚗 Vehicle Offer",
+      "title": "New TVS King Purchase — Zero Down Payment*",
+      "desc": "Special festive finance offer. Subject to bank approval. Contact us today!",
+      "btnText": "Enquire Now",
+      "btnClass": "btn--dark",
+      "cardClass": "obanner__card--4",
+      "deco": "0%<br/>DOWN",
+      "bgImg": ""
+    }
+  ],
+  "gallery": [
+    "tvs_king_deluxe.jpg",
+    "tvs_king_duramax.jpg",
+    "tvs_king_cng.jpg",
+    "tvs_king_ev.jpg",
+    "logo.png",
+    "tvs-logo.jpeg",
+    "auto-1.png"
+  ],
+  "contact": {
+    "salesPhone": "+91 90473 99473",
+    "servicePhone": "+91 90878 40878",
+    "landline": "04144-230434",
+    "email": "qualityautos@tvsmdealers.co.in",
+    "address": "Quality Auto's, No.4, JB Samy Complex, Chidambaram to Cuddalore Bypass Road, North Thillainayagapuram, Chidambaram – 608001.",
+    "gstin": "33AOBPV0596F2ZV",
+    "hours": "Mon – Sat: 8:00 AM – 8:00 PM | Sunday: 9:00 AM – 5:00 PM"
+  },
+  "hero": {
+    "eyebrow": "Authorized TVS 3-Wheeler Dealer — Chidambaram",
+    "title": "Chidambaram's #1 TVS Three-Wheeler <em>Sales & Service.</em>",
+    "desc": "Your trusted TVS authorised dealer for sales, genuine spare parts, service & 24/7 breakdown support — serving Chidambaram for over 15 years.",
+    "img": "auto-1.png"
+  },
+  "about": {
+    "title": "Chidambaram's premier TVS three-wheeler dealer, since day one.",
+    "p1": "Quality Auto's has spent over fifteen years becoming Chidambaram's trusted TVS three-wheeler specialist. What started as a small roadside shop is now a full-fledged authorized dealership with dedicated service bays, a showroom, and a team that treats every auto like it's their own.",
+    "p2": "We are an Authorized Dealer for TVS Motor Company 3 Wheeler — offering new vehicle sales, genuine spare parts, AMC packages, and certified workshop service all under one roof.",
+    "img": "auto-1.png"
+  }
+}
